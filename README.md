@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 I am Manisha Kumari 
 
 
@@ -12,4 +12,3 @@ I am Manisha Kumari
 - 📫 How to reach me: manishakumari.april10@gmail.com
 - 😄 Happy Learning
 
--->
